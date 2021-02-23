@@ -1,4 +1,3 @@
-```markdown
 ### Hi i'm José Oliveira👋
 
 Sou formado em Análise e Desenvolvimento de Sistemas,
@@ -16,4 +15,4 @@ mas após conhecer o React venho focado nele desde então.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olliveer)](https://github.com/anuraghazra/github-readme-stats)
 
-```
+
