@@ -9,9 +9,9 @@ mas após conhecer o React venho focado nele desde então.
  :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Overwatch e gosto de documentários de história antiga :movie_camera:
  :email: &nbsp; Entre em contato comigo: 
- [![Linkedin Badge](https://img.shields.io/badge/-Jos%C3%A9Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-oliveira-8668a1152/)](https://www.linkedin.com/in/jos%C3%A9-oliveira-8668a1152/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Jos%C3%A9Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseooliveira/)](https://www.linkedin.com/in/joseooliveira/) 
 | 
-  [![Outlook Badge](https://img.shields.io/badge/-j.oliveira90@live.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:j.oliveira90@live.com)](mailto:j.oliveira90@live.com)
+  [![OutLook Badge](https://img.shields.io/badge/-j.oliveira90@live.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:j.oliveira90@live.com)](mailto:j.oliveira90@live.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olliveer)](https://github.com/anuraghazra/github-readme-stats)
 
