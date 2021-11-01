@@ -1,7 +1,6 @@
 ### Hi i'm José Oliveira👋
 
 Sou formado em Análise e Desenvolvimento de Sistemas,
-e enquanto não consigo uma oportunidade de entrar no mercado continuo estudando :books:
 Na faculdade estudei Java e depois dela vinha estudano PHPOO e Laravel,
 mas após conhecer o React venho focado nele desde então.
 
