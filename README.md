@@ -12,6 +12,11 @@ mas após conhecer o React venho focado nele desde então.
 | 
   [![OutLook Badge](https://img.shields.io/badge/-j.oliveira90@live.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:j.oliveira90@live.com)](mailto:j.oliveira90@live.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olliveer)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olliveer&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olliveer&layout=compact" />
+</a>
 
 
