@@ -1,3 +1,5 @@
+<h4 align="center">
+
 ### Hi i'm José Oliveira👋
 
 Sou formado em Análise e Desenvolvimento de Sistemas,
@@ -13,11 +15,11 @@ mas após conhecer o React venho focado nele desde então.
 [![OutLook Badge](https://img.shields.io/badge/-j.oliveira90@live.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:j.oliveira90@live.com)](mailto:j.oliveira90@live.com)
 
 <div align="center">
-<a href="https://github.com/olliveer">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=olliveer&show_icons=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=olliveer&show_icons=true" />
 </a>
-<a href="https://github.com/olliveer">
-  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olliveer&layout=compact" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olliveer&layout=compact" />
 </a>
 </div>
 
@@ -27,5 +29,7 @@ mas após conhecer o React venho focado nele desde então.
   <img align="center" alt="nextjs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 
-  <img align="right" alt="Olli-pic" height="150" src="https://giffiles.alphacoders.com/576/57629.gif" data-canonical-src="https://giffiles.alphacoders.com/576/57629.gif" style="max-width: 100%;">
+  <img align="right" alt="Rafa-pic" height="150" src="https://giffiles.alphacoders.com/576/57629.gif" data-canonical-src="https://giffiles.alphacoders.com/576/57629.gif" style="max-width: 100%;">
 </div>
+
+##
