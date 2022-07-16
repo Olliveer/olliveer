@@ -19,7 +19,7 @@
   <img align="center" alt="ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-  <img align="center" alt="nextjs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+  <img align="center"  alt="nextjs" height="30" width="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 
   <img align="right" alt="Olliveer-pic" height="150" src="https://giffiles.alphacoders.com/576/57629.gif" data-canonical-src="https://giffiles.alphacoders.com/576/57629.gif" style="max-width: 100%;">
