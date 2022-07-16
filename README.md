@@ -1,13 +1,12 @@
 <h4 align="center">
 
-<a href="#"><img width="300px" height="300px" src="https://i.imgur.com/uTOsuKu.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="200px" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" /></a>
 
 <h1 align="center"> Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o José Oliveira!</h1>
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Vue.js
-- 💻 Minha stack: ReactJS, Node.js, React Native & Typescript
-- 💬 Curto tecnologias, games como CS:GO, Overwatch e séries.
+- 💻 Minha stack: ReactJS, NextJs, Node.js & Typescript
 
 <div align="center">
   <a href="https://github.com/olliveer">
