@@ -32,6 +32,4 @@
 
 </div>
 
-<div align="center">
-<img alt="Olliveer-pic" height="200" src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47vamnuww42v3837fsuvf2bh0yy5cx4uiityhfyfo8&rid=giphy.gif&ct=g" data-canonical-src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47vamnuww42v3837fsuvf2bh0yy5cx4uiityhfyfo8&rid=giphy.gif&ct=g" style="max-width: 100%;">
-</div>
+
