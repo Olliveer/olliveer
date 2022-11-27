@@ -2,11 +2,11 @@
 
 <a href="#"><img width="100%" height="200px" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" /></a>
 
-<h1 align="center"> Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o José Oliveira!</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm José Oliveira!</h1>
 
-- 📚 Formado em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Vue.js
-- 💻 Minha stack: ReactJS, NextJs, Node.js & Typescript
+- 📚 Analysis and Development of Systems
+- 🌱 Currently working with Vuejs
+- 💻 My Stack: ReactJS, NextJs, Node.js & Typescript
 
 <div align="center">
   <a href="https://github.com/olliveer">
