@@ -24,7 +24,7 @@
 
 </div>
 
-## 📧 Entre em contato comigo:
+## 📧 Find me here:
 
 <div align="start">
 
